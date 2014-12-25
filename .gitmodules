@@ -1,3 +1,6 @@
 [submodule "lib/librfm12"]
 	path = lib/librfm12
 	url = git@github.com:das-labor/librfm12.git
+[submodule "lib/avr-uart"]
+	path = lib/avr-uart
+	url = git@github.com:andygock/avr-uart.git
