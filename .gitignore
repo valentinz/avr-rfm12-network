@@ -27,3 +27,9 @@
 *.i*86
 *.x86_64
 *.hex
+
+.dep/*
+*.lss
+*.lst
+*.map
+*.sym
