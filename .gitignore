@@ -28,7 +28,7 @@
 *.x86_64
 *.hex
 
-.dep/*
+.dep
 *.lss
 *.lst
 *.map
