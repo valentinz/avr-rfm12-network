@@ -4,3 +4,6 @@
 [submodule "lib/avr-uart"]
 	path = lib/avr-uart
 	url = git@github.com:andygock/avr-uart.git
+[submodule "lib/avr-temperature"]
+        path = lib/avr-temperature
+        url = git@github.com:valentinz/avr-temperature.git

@@ -54,7 +54,7 @@ TARGET = main
 
 
 # List C source files here. (C dependencies are automatically generated.)
-SRC = $(TARGET).c ../lib/avr-uart/uart.c
+SRC = $(TARGET).c ../lib/avr-uart/uart.c ../lib/avr-temperature/ds18x20_demo/ds18x20.c ../lib/avr-temperature/ds18x20_demo/onewire.c ../lib/avr-temperature/ds18x20_demo/crc8.c
  
 # List Assembler source files here.
 # Make them always end in a capital .S.  Files ending in a lowercase .s
